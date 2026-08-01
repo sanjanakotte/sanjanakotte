@@ -200,3 +200,37 @@ Python • FastAPI • PyMuPDF • HTML • CSS • JavaScript
 <p align="center">
 Let's build intelligent AI solutions together 🚀
 </p>
+
+---
+
+# 🚀 Featured AI/ML Projects
+
+## 🤖 AI Resume Analyzer
+
+An AI-powered application that analyzes resumes against job descriptions using NLP and Machine Learning.
+
+**Tech Stack:** Python • FastAPI • HTML • CSS • JavaScript
+
+### Application
+
+![AI Resume Analyzer](Sanjana AI Analyzer.png)
+
+### Output
+
+![Resume Output](SS-1.png)
+
+---
+
+## 📄 Intelligent Document Processing
+
+An AI-powered system that extracts and analyzes information from PDF documents.
+
+**Tech Stack:** Python • OCR • FastAPI • NLP
+
+### Application
+
+![Document Processing](Sanjana Document.png)
+
+### Output
+
+![Document Output](Doc-1.png)
