@@ -167,7 +167,7 @@ Python • FastAPI • PyMuPDF • HTML • CSS • JavaScript
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjanakotte&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjanakotte&theme=tokyo-night=30"/>
 
 </p>
 
