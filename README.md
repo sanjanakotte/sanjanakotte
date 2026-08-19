@@ -41,6 +41,39 @@ Building intelligent AI applications using Machine Learning, Large Language Mode
 
 # 💼 Experience Highlights
 
+# 💼 Professional Experience
+
+### 🤖 AI / ML Engineer | Elevance Health
+**February 2025 – Present | USA**
+
+- Building and scaling AI and Generative AI solutions for healthcare workflows.
+- Developing RAG pipelines using LangChain, Semantic Kernel, FAISS, and Pinecone.
+- Building FastAPI inference services and deploying ML solutions on Azure ML.
+- Working with LLM evaluation, prompt engineering, MLOps, and CI/CD.
+
+### 🧠 Machine Learning Engineer | State Street
+**June 2023 – December 2024 | USA**
+
+- Developed Machine Learning and Deep Learning solutions for fraud detection and risk analytics.
+- Built NLP pipelines using SpaCy and Hugging Face.
+- Worked with AWS SageMaker, EC2, S3, MLflow, and production ML pipelines.
+- Developed REST APIs for real-time model inference.
+
+### 📊 Data Scientist | SLK Software
+**June 2021 – December 2022 | India**
+
+- Built predictive ML models using Scikit-learn and XGBoost.
+- Performed data preprocessing, feature engineering, and exploratory data analysis.
+- Developed Python data workflows and Power BI dashboards.
+- Supported model deployment and analytics projects.
+
+# 🎓 Education
+
+### Trine University
+**Master's in Business Analytics | USA | 2024**
+
+---
+
 ## AI/ML Engineer
 
 - Developed Generative AI applications
