@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Profile.jpeg" width="180" height="180" style="border-radius:50%;" />
+  <img src="Profile.jpeg" width="140" height="140" style="border-radius:50%;" />
 </p>
 <h1 align="center">Hi 👋, I'm Sanjana Kotte</h1>
 
