@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="profile-photo.png" width="180" height="180" style="border-radius:50%;" />
+</p>
 <h1 align="center">Hi 👋, I'm Sanjana Kotte</h1>
 
 <h3 align="center">
