@@ -4,11 +4,11 @@
 <h1 align="center">Hi 👋, I'm Sanjana Kotte</h1>
 
 <h3 align="center">
-AI/ML Engineer | Machine Learning | Generative AI | NLP | FastAPI | Python
+AI Engineer | Machine Learning | Generative AI | Java | Python
 </h3>
 
 <p align="center">
-Building intelligent AI applications using Machine Learning, Large Language Models (LLMs), NLP, Retrieval-Augmented Generation (RAG), and Cloud Technologies.
+AI Engineer with 5 years of experience building Machine Learning, NLP, and Generative AI solutions across healthcare and financial services. Skilled in Python, Java, RAG, LLMs, cloud deployment, and MLOps.
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@ Building intelligent AI applications using Machine Learning, Large Language Mode
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="www.linkedin.com/in/kottesanjana">
+<a href="https://www.linkedin.com/in/shrathikasanjuk">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -33,11 +33,11 @@ Building intelligent AI applications using Machine Learning, Large Language Mode
 
 # 👩‍💻 About Me
 
-- 🤖 AI/ML Engineer passionate about solving real-world problems with AI.
-- 🧠 Experienced in Machine Learning, Generative AI, NLP and RAG.
-- ⚡ Building production-ready AI applications using FastAPI and Python.
-- ☁️ Interested in Azure AI, AWS and MLOps.
-- 🌱 Continuously learning Agentic AI and advanced LLM workflows.
+- 🤖 AI Engineer with 5 years of experience in Software Development, Machine Learning, NLP, and Generative AI.
+- 🏥 Working on Healthcare AI and Document Intelligence at Elevance Health.
+- 🏦 Experienced in Financial Document Processing and Risk Analytics at State Street.
+- 💻 Strong foundation in Java, Python, SQL, REST APIs, and backend development.
+- 🚀 Skilled in RAG, LLMs, LangChain, Azure ML, AWS, and MLOps. 
 - 📫 Email: **shrathikasanju@gmail.com**
 
 ---
@@ -46,29 +46,36 @@ Building intelligent AI applications using Machine Learning, Large Language Mode
 
 # 💼 Professional Experience
 
-### 🤖 AI / ML Engineer | Elevance Health
+### 🤖 AI Engineer | Elevance Health
 **February 2025 – Present | USA**
 
-- Building and scaling AI and Generative AI solutions for healthcare workflows.
-- Developing RAG pipelines using LangChain, Semantic Kernel, FAISS, and Pinecone.
-- Building FastAPI inference services and deploying ML solutions on Azure ML.
-- Working with LLM evaluation, prompt engineering, MLOps, and CI/CD.
+**Project:** Healthcare AI and Document Intelligence
+
+- Developed AI-powered healthcare document processing and intelligent retrieval workflows using Python, RAG, and LLMs.
+- Built REST APIs and integrated AI services with enterprise healthcare applications.
+- Worked with LangChain, Azure Machine Learning, and MLOps to support model deployment and evaluation.
 
 ### 🧠 Machine Learning Engineer | State Street
 **June 2023 – December 2024 | USA**
 
-- Developed Machine Learning and Deep Learning solutions for fraud detection and risk analytics.
-- Built NLP pipelines using SpaCy and Hugging Face.
-- Worked with AWS SageMaker, EC2, S3, MLflow, and production ML pipelines.
-- Developed REST APIs for real-time model inference.
+**Project:** Financial Document Processing and Risk Analytics
 
-### 📊 Data Scientist | SLK Software
+- Developed machine learning models using Python and Scikit-learn to analyze financial data and support risk assessment.
+- Built NLP pipelines using spaCy and Hugging Face for financial document classification and information extraction.
+- Developed data preprocessing and feature engineering workflows using Pandas and NumPy.
+- Deployed machine learning workflows using AWS SageMaker, EC2, and S3.
+- Integrated ML models through REST APIs and used MLflow for experiment tracking and model monitoring.
+
+### 💻 Software Developer | SLK Software (Client: Accenture)
 **June 2021 – December 2022 | India**
 
-- Built predictive ML models using Scikit-learn and XGBoost.
-- Performed data preprocessing, feature engineering, and exploratory data analysis.
-- Developed Python data workflows and Power BI dashboards.
-- Supported model deployment and analytics projects.
+**Project:** Enterprise Application Development using Java and Python
+
+- Developed backend application components using Java and Python to support enterprise business applications.
+- Built and integrated RESTful APIs for communication between application services.
+- Automated data processing, validation, and reporting tasks using Python scripts.
+- Developed SQL queries for database operations and application data management.
+- Performed debugging, unit testing, and code reviews to improve application reliability.
 
 # 🎓 Education
 
@@ -77,15 +84,13 @@ Building intelligent AI applications using Machine Learning, Large Language Mode
 
 ---
 
-## AI/ML Engineer
+## 🚀 Core AI Engineering Expertise
 
-- Developed Generative AI applications
-- Designed Retrieval-Augmented Generation (RAG) pipelines
-- Built FastAPI REST APIs
-- Developed Machine Learning models
-- Worked with NLP and Large Language Models
-- Built intelligent document processing applications
-- Deployed AI solutions on cloud platforms
+- **Generative AI & LLMs:** RAG pipelines, LangChain, Semantic Kernel, prompt engineering, and LLM evaluation.
+- **Machine Learning & NLP:** Predictive modeling, document classification, information extraction, and model evaluation.
+- **Backend Development:** Python, Java, FastAPI, REST APIs, SQL, and application integration.
+- **Cloud & MLOps:** Azure Machine Learning, AWS SageMaker, MLflow, Docker, and CI/CD.
+- **AI Applications:** Healthcare document intelligence, financial risk analytics, and workflow automation.
 
 ---
 <h2 align="center">🛠️ Resume Skills</h2>
@@ -93,9 +98,8 @@ Building intelligent AI applications using Machine Learning, Large Language Mode
 <h3 align="center">Programming Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
@@ -109,6 +113,7 @@ Building intelligent AI applications using Machine Learning, Large Language Mode
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </p>
 
 <h3 align="center">Generative AI</h3>
@@ -147,6 +152,7 @@ Building intelligent AI applications using Machine Learning, Large Language Mode
 <p align="center">
   <img src="https://img.shields.io/badge/Azure%20ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -195,7 +201,7 @@ Building intelligent AI applications using Machine Learning, Large Language Mode
 - Python
 - SQL
 - JavaScript
-- C#
+- Java
 
 ### AI / ML
 - OpenAI
@@ -222,6 +228,8 @@ Building intelligent AI applications using Machine Learning, Large Language Mode
 ### Cloud
 - Azure
 - AWS
+- AWS SageMaker
+  
 
 ### Databases
 - PostgreSQL
@@ -233,15 +241,20 @@ Building intelligent AI applications using Machine Learning, Large Language Mode
 
 ## 🤖 AI Resume Analyzer
 
-An AI-powered application that analyzes resumes against job descriptions.
+An AI-powered resume screening application that analyzes resumes against job descriptions to identify matching skills, missing qualifications, and improvement opportunities.
 
 ### Features
+- Resume parsing and text extraction
+- Job description and resume comparison
+- ATS-style resume match scoring
+- Skill gap identification
+- Personalized resume improvement insights
 
-- ATS Resume Score
-- Job Match Score
-- Resume Parsing
-- Skill Gap Analysis
-- Resume Insights
+**Tech Stack**
+
+Python • FastAPI • NLP • HTML • CSS • JavaScript
+
+
 
 **Tech Stack**
 
@@ -251,15 +264,14 @@ Python • FastAPI • HTML • CSS • JavaScript
 
 ## 📄 Intelligent Document Processing
 
-An intelligent PDF processing application that extracts document information.
+A Python-based document processing application that enables users to upload PDF files, extract text, analyze document content, and retrieve metadata through a FastAPI backend.
 
 ### Features
-
-- PDF Upload
-- Text Extraction
-- Word Count
-- Character Count
-- Document Metadata
+- PDF document upload and validation
+- Automated text extraction from PDF files
+- Word and character count analysis
+- Document metadata retrieval
+- REST API-based document processing
 
 **Tech Stack**
 
@@ -270,7 +282,7 @@ Python • FastAPI • PyMuPDF • HTML • CSS • JavaScript
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sanjanakotte&show_icons=true&theme=tokyonight&hide_border=true" 
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sanjanakotte&show_icons=true&theme=tokyonight&hide_border=true" 
 </p>
 
 ---
