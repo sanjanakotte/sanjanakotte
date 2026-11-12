@@ -297,35 +297,19 @@ Python • FastAPI • PyMuPDF • HTML • CSS • JavaScript
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sanjanakotte&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjanakotte&theme=tokyo-night=30"/>
-
-</p>
-
----
 
 # 🎯 Current Focus
 
-- 🤖 Generative AI
-- 🧠 Large Language Models (LLMs)
-- 📄 Intelligent Document Processing
-- 🔍 Retrieval-Augmented Generation (RAG)
-- ⚡ FastAPI
-- ☁️ Azure AI & AWS
-- 🚀 Production AI Systems
+
+- 🤖 Generative AI and Large Language Models (LLMs)
+- 🧠 Machine Learning and Natural Language Processing (NLP)
+- 📄 Healthcare AI and Document Intelligence
+- 📊 Financial Document Processing and Risk Analytics
+- 🔍 Retrieval-Augmented Generation (RAG) and LangChain
+- ☁️ Azure Machine Learning, AWS, and MLOps
+- 🚀 Python, Java, FastAPI, and Production AI Systems
+
 
 ---
 
