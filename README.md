@@ -345,7 +345,7 @@ An AI-powered application that analyzes resumes against job descriptions using N
 
 ### Output
 
-![Resume Output](resume-analyzer.png)
+![Resume Output](Resume%20Analyzer.png)
 
 ---
 
@@ -361,4 +361,4 @@ An AI-powered system that extracts and analyzes information from PDF documents.
 
 ### Output
 
-![Document Output](document-processing.png)
+![Document Processing](Document%20processing.png)
