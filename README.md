@@ -21,7 +21,7 @@ AI Engineer with 5 years of experience building Machine Learning, NLP, and Gener
 </a>
 
 <a href="https://sanjanakotte.github.io/ai-engineer-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-success?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" />
 </a>
 
 <a href="https://github.com/sanjanakotte">
